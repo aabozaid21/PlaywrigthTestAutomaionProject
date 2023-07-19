@@ -1,0 +1,25 @@
+ [{
+    "firstName" : "alaa",
+    "lastName" : "abozaid",
+    "email" : "alaaabozaid21@gmail.com",
+    "telephone":"201022902925",
+    "password" : "P@ssw0rd123"
+
+},
+{
+    "userName" : "aabozaid@rasan.co",
+    "password" : "P@ssw0rd"
+},
+
+{
+
+    "firstName" : "alaa",
+    "lastName" : "abozaid",
+    "company"   :"rasan",
+    "address": "test address",
+    "city" :"cairo",
+    "postalCode" :"1234"
+}
+
+
+]
