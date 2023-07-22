@@ -1,8 +1,46 @@
-# PlaywrigthTestAutomaionProject
-Automation Project using Playwright Frame work , JavaScript , POM design pattern , Data Driven approach 
+<h1 align="center" id="title">Playwright_JS</h1>
 
+<p align="center"><img src="https://socialify.git.ci/aabozaid21/PlaywrigthTestAutomaionProject/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
+<p id="description">The project is demo project for Shopping website the purpose is precising Playwright frame work only</p>
 
-# How To Use Playwrigth ?
-you can use Playwrigth Docs which is very usefull https://playwright.dev/docs/intro#installing-playwright
+  
+  
+<h2>🧐 Features</h2>
 
+Here're some of the project's best features:
+
+*   Test Automation
+*   Data Driven Testing (DDT)
+*   Code reusability
+*   Screenshots after failure
+*   Videos attached after each testcase
+*   Test Execution in Parllel
+*   Clean Code
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. For running tests you need to type the following command</p>
+
+```
+npx playwright test
+```
+
+<p>2. To open the Test Report you need to type the following command</p>
+
+```
+ npx playwright show-report
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Playwrigth Framework
+*   OOP
+*   DDT
+*   JSON
+*   JavaScript
+*   Playwrigth Fixtures
