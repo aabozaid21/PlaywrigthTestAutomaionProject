@@ -9,15 +9,15 @@
 The following software are required:
 
 * nodejs : 
-* <p>Download and Install Node JS from</p>
-```
- https://nodejs.org/en/download/
-```
+   <p>Download and Install Node JS from</p>
+  ```
+   https://nodejs.org/en/download/
+  ```
 * Install Java 8 or above 
 * Dowload and install VS code
   ```
- [https://nodejs.org/en/download/](https://code.visualstudio.com/)
-```  
+   [https://nodejs.org/en/download/](https://code.visualstudio.com/)
+ ```  
 
 
 <h2>Installation</h2>
