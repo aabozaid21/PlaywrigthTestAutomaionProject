@@ -6,8 +6,8 @@
 
 <h2>🚀 Demo</h2>
 
-[https://screenpal.com/watch/c0i3lEVkQSO](https://screenpal.com/watch/c0i3lEVkQSO)
-[867582587107f7df42b6bc29fe712d5203239c36.webm](https://github.com/aabozaid21/PlaywrigthTestAutomaionProject/assets/26165773/41fb3950-669d-4706-8ff7-0cc946ed1db3)
+[867582587107f7df42b6bc29fe712d5203239c36.webm](https://github.com/aabozaid21/PlaywrigthTestAutomaionProject/assets/26165773/20a3c6b4-5fa6-4cdc-8e2c-b7db8ad53d67)
+
 
 <h2>Project Screenshots:</h2>
 
