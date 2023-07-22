@@ -4,7 +4,12 @@
 
 <p id="description">The project is demo project for Shopping website the purpose is precising Playwright frame work only</p>
 
-  
+ <h2>Prerequists</h2>
+
+ The following software are required:
+
+nodejs : Download and Install Node JS from
+https://nodejs.org/en/download/
   
 <h2>🧐 Features</h2>
 
@@ -40,7 +45,8 @@ Technologies used in the project:
 
 *   Playwrigth Framework
 *   OOP
-*   DDT
+*    Data Driven Testing (DDT)
+*   Page Object Model (POM)
 *   JSON
 *   JavaScript
 *   Playwrigth Fixtures
