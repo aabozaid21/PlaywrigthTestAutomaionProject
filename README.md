@@ -8,11 +8,10 @@
 
 The following software are required:
 
-* nodejs : 
-   <p>Download and Install Node JS from</p>
+* Download and Install Node Js
   ```
    https://nodejs.org/en/download/
-  ```
+ ```  
 * Install Java 8 or above 
 * Dowload and install VS code
   ```
