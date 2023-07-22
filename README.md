@@ -4,6 +4,14 @@
 
 <p id="description">The project is demo project for Shopping website the purpose is precising Playwright frame work only</p>
 
+<h2>🚀 Demo</h2>
+
+[https://screenpal.com/watch/c0i3lEVkQSO](https://screenpal.com/watch/c0i3lEVkQSO)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/aabozaid21/PlaywrigthTestAutomaionProject/assets/26165773/8ca0d4c4-8437-4b49-ad14-ed4ef73f7d1a" alt="project-screenshot" width="1000" height="400/">
+
   
   
 <h2>🧐 Features</h2>
@@ -68,7 +76,3 @@ Technologies used in the project:
 *   JSON
 *   JavaScript
 *   Playwrigth Fixtures
-
-<h2> Project Reports </h2>
-![image](https://github.com/aabozaid21/PlaywrigthTestAutomaionProject/assets/26165773/8ca0d4c4-8437-4b49-ad14-ed4ef73f7d1a)
-
