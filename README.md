@@ -68,3 +68,7 @@ Technologies used in the project:
 *   JSON
 *   JavaScript
 *   Playwrigth Fixtures
+
+<h2> Project Reports </h2>
+![image](https://github.com/aabozaid21/PlaywrigthTestAutomaionProject/assets/26165773/8ca0d4c4-8437-4b49-ad14-ed4ef73f7d1a)
+
