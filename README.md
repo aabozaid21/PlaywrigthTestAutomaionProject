@@ -4,23 +4,7 @@
 
 <p id="description">The project is demo project for Shopping website the purpose is precising Playwright frame work only</p>
 
-<h2>Prerequists</h2>
-
-The following software are required:
-
-* Download and Install Node Js
-  ```
-   https://nodejs.org/en/download/
- ```  
-* Install Java 8 or above 
-* Dowload and install VS code
-  ```
-   [https://nodejs.org/en/download/](https://code.visualstudio.com/)
- ```  
-
-
-<h2>Installation</h2>
- 
+  
   
 <h2>🧐 Features</h2>
 
@@ -36,13 +20,37 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. For running tests you need to type the following command</p>
+<p>1. Clone the repo using below URL</p>
+
+```
+https://github.com/aabozaid21/PlaywrigthTestAutomaionProject
+```
+
+<p>2. Navigate to folder and install npm packages using:</p>
+
+```
+npm install
+```
+
+<p>3. For first time installation run below command to download required browsers</p>
+
+```
+npx playwright install
+```
+
+<p>4. For running tests you need to type the following command</p>
 
 ```
 npx playwright test
 ```
 
-<p>2. To open the Test Report you need to type the following command</p>
+<p>5. For running specific test file type the following command</p>
+
+```
+npx playwright test ./test/testfilename.js
+```
+
+<p>6. To open the test report type the following command</p>
 
 ```
  npx playwright show-report
@@ -56,8 +64,7 @@ Technologies used in the project:
 
 *   Playwrigth Framework
 *   OOP
-*    Data Driven Testing (DDT)
-*   Page Object Model (POM)
+*   DDT
 *   JSON
 *   JavaScript
 *   Playwrigth Fixtures
