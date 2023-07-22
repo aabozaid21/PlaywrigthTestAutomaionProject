@@ -4,12 +4,24 @@
 
 <p id="description">The project is demo project for Shopping website the purpose is precising Playwright frame work only</p>
 
- <h2>Prerequists</h2>
+<h2>Prerequists</h2>
 
- The following software are required:
+The following software are required:
 
-nodejs : Download and Install Node JS from
-https://nodejs.org/en/download/
+* nodejs : 
+* <p>Download and Install Node JS from</p>
+```
+ https://nodejs.org/en/download/
+```
+* Install Java 8 or above 
+* Dowload and install VS code
+  ```
+ [https://nodejs.org/en/download/](https://code.visualstudio.com/)
+```  
+
+
+<h2>Installation</h2>
+ 
   
 <h2>🧐 Features</h2>
 
